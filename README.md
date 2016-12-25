@@ -30,6 +30,7 @@ A simple js mouse interface
 ### Mouse Buttons 
 #### Additional 'eventDetails'
 - 'button'
+
 #### Events
 - mouseDown
 - mouseUp
@@ -56,6 +57,7 @@ A simple js mouse interface
 ### Scroll Wheel
 #### Additional 'eventDetails'
 - 'velocity'
+
 #### Events
 - scroll
 - scrollDown
