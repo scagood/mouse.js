@@ -1,6 +1,11 @@
 # mouse.js
 A simple js mouse interface
 
+## Example
+```JavaScript
+TODO
+```
+
 ## Functions
 
 ### .on(eventName, eventDetails)
