@@ -26,7 +26,7 @@ TODO
   "target":<DOM> // DOM element
 }
 ```
-###.blockContext(Nullable boolean)
+### .blockContext(Nullable boolean)
 - true - blocks context menu
 - false - unblocks context menu
 - null - toggles context menu blocking
